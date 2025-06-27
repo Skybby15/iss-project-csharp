@@ -1,0 +1,864 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C703FF43-E8D7-46B4-B2DD-316F04E7700C}|..\\Server\\Server.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\server\\netservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703FF43-E8D7-46B4-B2DD-316F04E7700C}|..\\Server\\Server.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\server\\startserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703FF43-E8D7-46B4-B2DD-316F04E7700C}|..\\Server\\Server.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\server\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\proxyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\server\\jsonconcurrentserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90110D6C-97B0-401A-94B8-21A917DFDD9A}|..\\Services\\Services.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90110D6C-97B0-401A-94B8-21A917DFDD9A}|..\\Services\\Services.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\services\\iclientobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\server\\concurrentserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\server\\abstractserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703FF43-E8D7-46B4-B2DD-316F04E7700C}|..\\Server\\Server.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\farmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA5AD9C-318D-4E26-92B1-D920D810DEFC}|..\\Model\u0026Persistence\\Model\u0026Persistence.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\model\u0026persistence\\domain\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA5AD9C-318D-4E26-92B1-D920D810DEFC}|..\\Model\u0026Persistence\\Model\u0026Persistence.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\model\u0026persistence\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA5AD9C-318D-4E26-92B1-D920D810DEFC}|..\\Model\u0026Persistence\\Model\u0026Persistence.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\model\u0026persistence\\domain\\ordermedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA5AD9C-318D-4E26-92B1-D920D810DEFC}|..\\Model\u0026Persistence\\Model\u0026Persistence.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\model\u0026persistence\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA5AD9C-318D-4E26-92B1-D920D810DEFC}|..\\Model\u0026Persistence\\Model\u0026Persistence.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\model\u0026persistence\\domain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\farmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C703FF43-E8D7-46B4-B2DD-316F04E7700C}|..\\Server\\Server.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D29AD-03F5-403C-97F3-B0F7B8307919}|..\\Client\\Client.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\client\\forms\\farmacistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\hospital app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:hospital app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A84585-8A3A-4017-962B-80777A8DB008}|..\\Networking\\Networking.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\networking\\networking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\domain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:domain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\domain\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:domain\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\farmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:farmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\utils\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:utils\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\farmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:farmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\iss-project-csharp\\hospital app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{18916DF5-6227-4E54-B92B-84A7B0C49B16}|Hospital App.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Service\\Service.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Service\\Service.cs",
+              "RelativeToolTip": "Service\\Service.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwE8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:18:53.799Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Services\\IServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IServices.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Services\\IServices.cs",
+              "RelativeToolTip": "..\\Services\\IServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:40:39.277Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\StaffForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\StaffForm.cs",
+              "RelativeToolTip": "..\\Client\\Forms\\StaffForm.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAMAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:15:06.724Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\AdminForm.cs",
+              "RelativeToolTip": "..\\Client\\Forms\\AdminForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:03:11.339Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "..\\Client\\Forms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:35:14.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Program.cs",
+              "RelativeToolTip": "..\\Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:10:51.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "..\\Client\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:01:49.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetServices.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\NetServices.cs",
+              "RelativeDocumentMoniker": "..\\Server\\NetServices.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\NetServices.cs",
+              "RelativeToolTip": "..\\Server\\NetServices.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAcwFsBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:52:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartServer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\StartServer.cs",
+              "RelativeDocumentMoniker": "..\\Server\\StartServer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\StartServer.cs",
+              "RelativeToolTip": "..\\Server\\StartServer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:12:17.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\log4net.config",
+              "RelativeDocumentMoniker": "..\\Server\\log4net.config",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\log4net.config",
+              "RelativeToolTip": "..\\Server\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-12T12:28:23.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProxyServices.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\ProxyServices.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\ProxyServices.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\ProxyServices.cs",
+              "RelativeToolTip": "..\\Networking\\ProxyServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwEcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:54:21.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\ClientWorker.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\ClientWorker.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\ClientWorker.cs",
+              "RelativeToolTip": "..\\Networking\\ClientWorker.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAcwGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:57:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\JsonUtils.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\JsonUtils.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\JsonUtils.cs",
+              "RelativeToolTip": "..\\Networking\\JsonUtils.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAcwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:55:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Response.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\Response.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Response.cs",
+              "RelativeToolTip": "..\\Networking\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:05:01.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponseType.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\ResponseType.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\ResponseType.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\ResponseType.cs",
+              "RelativeToolTip": "..\\Networking\\ResponseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:05:12.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RequestType.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\RequestType.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\RequestType.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\RequestType.cs",
+              "RelativeToolTip": "..\\Networking\\RequestType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:56:49.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JsonConcurrentServer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Server\\JsonConcurrentServer.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\Server\\JsonConcurrentServer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Server\\JsonConcurrentServer.cs",
+              "RelativeToolTip": "..\\Networking\\Server\\JsonConcurrentServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:12:29.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IClientObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Services\\IClientObserver.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IClientObserver.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Services\\IClientObserver.cs",
+              "RelativeToolTip": "..\\Services\\IClientObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:47:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Request.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\Request.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Request.cs",
+              "RelativeToolTip": "..\\Networking\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:56:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConcurrentServer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Server\\ConcurrentServer.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\Server\\ConcurrentServer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Server\\ConcurrentServer.cs",
+              "RelativeToolTip": "..\\Networking\\Server\\ConcurrentServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:12:32.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AbstractServer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Server\\AbstractServer.cs",
+              "RelativeDocumentMoniker": "..\\Networking\\Server\\AbstractServer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Server\\AbstractServer.cs",
+              "RelativeToolTip": "..\\Networking\\Server\\AbstractServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:12:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\app.config",
+              "RelativeDocumentMoniker": "..\\Server\\app.config",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\app.config",
+              "RelativeToolTip": "..\\Server\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-22T12:37:56.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\log4net.config",
+              "RelativeDocumentMoniker": "..\\Networking\\log4net.config",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\log4net.config",
+              "RelativeToolTip": "..\\Networking\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-22T12:37:12.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FarmacistForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\FarmacistForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\FarmacistForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\FarmacistForm.cs",
+              "RelativeToolTip": "..\\Client\\Forms\\FarmacistForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:40:03.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Model\u0026Persistence\\Domain\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\HospitalDbContext.cs",
+              "RelativeToolTip": "..\\Model\u0026Persistence\\Domain\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:15:42.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\Client\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:53:49.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "..\\Client\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:04:19.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Model\u0026Persistence\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\Order.cs",
+              "RelativeToolTip": "..\\Model\u0026Persistence\\Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:38:50.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\Medicine.cs",
+              "RelativeDocumentMoniker": "..\\Model\u0026Persistence\\Domain\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\Medicine.cs",
+              "RelativeToolTip": "..\\Model\u0026Persistence\\Domain\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:38:47.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "..\\Model\u0026Persistence\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\User.cs",
+              "RelativeToolTip": "..\\Model\u0026Persistence\\Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:51:39.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\OrderMedicine.cs",
+              "RelativeDocumentMoniker": "..\\Model\u0026Persistence\\Domain\\OrderMedicine.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Model\u0026Persistence\\Domain\\OrderMedicine.cs",
+              "RelativeToolTip": "..\\Model\u0026Persistence\\Domain\\OrderMedicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:11:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FarmacistForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\FarmacistForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\FarmacistForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\FarmacistForm.cs [Design]",
+              "RelativeToolTip": "..\\Client\\Forms\\FarmacistForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:11:00.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StaffForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\StaffForm.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\StaffForm.cs [Design]",
+              "RelativeToolTip": "..\\Client\\Forms\\StaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:27:19.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "..\\Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Server\\Server.csproj",
+              "RelativeToolTip": "..\\Server\\Server.csproj",
+              "ViewState": "AgIAABgAAACATGGycdAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T08:21:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\log4net.config",
+              "RelativeDocumentMoniker": "..\\Client\\log4net.config",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\log4net.config",
+              "RelativeToolTip": "..\\Client\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-12T12:10:51.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "..\\Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Client.csproj",
+              "RelativeToolTip": "..\\Client\\Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T17:47:59.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:09:12.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FarmacistForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\FarmacistForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Forms\\FarmacistForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Client\\Forms\\FarmacistForm.Designer.cs",
+              "RelativeToolTip": "..\\Client\\Forms\\FarmacistForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:05:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Hospital App.csproj",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Hospital App.csproj",
+              "RelativeDocumentMoniker": "Hospital App.csproj",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Hospital App.csproj",
+              "RelativeToolTip": "Hospital App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T08:01:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Networking.csproj",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Networking.csproj",
+              "RelativeDocumentMoniker": "..\\Networking\\Networking.csproj",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Networking\\Networking.csproj",
+              "RelativeToolTip": "..\\Networking\\Networking.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T08:37:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Domain\\Medicine.cs",
+              "RelativeDocumentMoniker": "Domain\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Domain\\Medicine.cs",
+              "RelativeToolTip": "Domain\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:35:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Domain\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Domain\\HospitalDbContext.cs",
+              "RelativeToolTip": "Domain\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:38:34.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:59:28.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FarmacistForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\FarmacistForm.cs",
+              "RelativeDocumentMoniker": "FarmacistForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\FarmacistForm.cs [Design]",
+              "RelativeToolTip": "FarmacistForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:35:09.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StaffForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\StaffForm.cs",
+              "RelativeDocumentMoniker": "StaffForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\StaffForm.cs [Design]",
+              "RelativeToolTip": "StaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:18:14.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:29:50.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\AdminForm.cs [Design]",
+              "RelativeToolTip": "AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:19:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAQwJEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:03:43.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:41:50.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Utils\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Utils\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\Utils\\Subscriber.cs",
+              "RelativeToolTip": "Utils\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:21:13.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\StaffForm.cs",
+              "RelativeDocumentMoniker": "StaffForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\StaffForm.cs",
+              "RelativeToolTip": "StaffForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:35:54.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FarmacistForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\FarmacistForm.cs",
+              "RelativeDocumentMoniker": "FarmacistForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\FarmacistForm.cs",
+              "RelativeToolTip": "FarmacistForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:04:20.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\app.config",
+              "RelativeDocumentMoniker": "app.config",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\iss-project-csharp\\Hospital App\\app.config",
+              "RelativeToolTip": "app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-08T14:41:18.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

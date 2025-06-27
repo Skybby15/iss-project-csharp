@@ -1,0 +1,14 @@
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\bin\Debug\net8.0\Model&Persistence.deps.json
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\bin\Debug\net8.0\Model&Persistence.runtimeconfig.json
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\bin\Debug\net8.0\Model&Persistence.dll
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\bin\Debug\net8.0\Model&Persistence.pdb
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.dll
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\refint\Model&Persistence.dll
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.pdb
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.genruntimeconfig.cache
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\ref\Model&Persistence.dll
+C:\Users\Claudiu\Desktop\GithubRepos\iss-project-csharp\Model&Persistence\obj\Debug\net8.0\Model&Persistence.csproj.AssemblyReference.cache
